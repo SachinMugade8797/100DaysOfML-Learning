@@ -1,6 +1,6 @@
 # 🚀 100 Days of ML Learning – by Sachin
 
-Welcome to my public journey of learning **Data Science, Machine Learning, Deep Learning, and NLP** in 100 days!
+Welcome to my public journey of learning **Machine Learning, Deep Learning, and NLP** in 100 days!
 
 > 📅 Starting Date: August 7, 2025  
 > 🧠 Goal: Become job-ready for AI/ML internships by consistently learning and building projects publicly.
