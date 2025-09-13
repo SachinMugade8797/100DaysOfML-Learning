@@ -18,7 +18,7 @@ def compute_factorial(number):
 
 if __name__ == "__main__":
     # List of numbers for which factorial will be calculated
-    numbers = 
+    numbers = [1,2,3,4,5]
 
     # Start timer
     start_time = time.time()
@@ -33,4 +33,5 @@ if __name__ == "__main__":
 
     # Print the calculated results and the time taken
     print(f"Results: {results}")
+
     print(f"Time taken: {end_time - start_time} seconds")
