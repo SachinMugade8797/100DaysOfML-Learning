@@ -29,8 +29,7 @@ Handlers: FileHandler → file, StreamHandler → console
 
 logger = logging.getLogger("arithmetic_app")
 4. Logging in Functions
-python
-Copy code
+
 def add(a, b):
     result = a + b
     logger.debug(f"Adding {a} + {b} = {result}")
@@ -65,8 +64,7 @@ divide(20, 10)
 divide(20, 0)  # Triggers error log
 Part 2: Logs & Execution
 Running the Script
-bash
-Copy code
+
 python app.py
 Example Log Output
 ruby
@@ -94,15 +92,13 @@ logger_one.setLevel(logging.DEBUG)
 logger_two = logging.getLogger("module_two")
 logger_two.setLevel(logging.WARNING)
 2. Basic Config (applies globally)
-python
-Copy code
+
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S',
 )
 3. Logging with Different Loggers
-python
-Copy code
+
 logger_one.debug("This is a debug message for module one")
 
 logger_two.warning("This is a warning message for module two")
