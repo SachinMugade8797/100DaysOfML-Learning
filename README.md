@@ -2,8 +2,7 @@
 
 Welcome to my public journey of learning **Machine Learning** in 100 days!
 
-> 📅 Starting Date: August 7, 2025  
-> 🧠 Goal: Become job-ready for AI/ML internships by consistently learning and building projects publicly.
+> 📅 Starting Date: August 7, 2025 
 
 ---
 
@@ -19,7 +18,6 @@ Welcome to my public journey of learning **Machine Learning** in 100 days!
 
 ---
 
-📘 All notebooks & code: [This GitHub Repo](https://github.com/SachinMugade8797/100DaysOfML-Learning)
 
 
 
