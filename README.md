@@ -22,9 +22,10 @@ Welcome to my public journey of learning **Machine Learning** in 100 days!
 | 11 | Flask Day2 | Learned Flask Debugging and Multiple Pages, Templating with render_template | [Day11 Work](https://github.com/SachinMugade8797/Flask-Learning#3-debugging-and-multiple-pages) |
 | 12 | Flask Day3 | Learned Flask Dynamic Content with Jinja2, Template Inheritance and Static Files, Form Handling and Request Methods | [Day12 Work](https://github.com/SachinMugade8797/Flask-Learning#5-dynamic-content-with-jinja2) |
 | 13 | Flask Day4 | Learned Flask Database Management System (DBMS) Setup, Data Storage and Retrieval, Updating and Deleting Data, Database Model Definition and Table Creation | [Day13 Work](https://github.com/SachinMugade8797/Flask-Learning#8-database-management-system-dbms-setup) |
-| 14 | Flask Day5 | Project In Flask : Alerting & Notification Platform | [Day14 Work](https://github.com/SachinMugade8797/Alerting-Notification-Platform) |
-| 15 | 
-
+| 14 | Flask Day5 | Learned Flask CRUD Operations: Create (Store) and Read (Fetch), Update and Delete Setup, Executing Update, Delete, and Redirection | [Day14 Work](https://github.com/SachinMugade8797/Flask-Learning#2-crud-operations-create-store-and-read-fetch) |
+| 15 | Flask Day6 | Project In Flask : Alerting & Notification Platform | [Day15 Work](https://github.com/SachinMugade8797/Alerting-Notification-Platform) |
+| 16 | Flask Day7 | Project In Flask : QR Code Generater Website | [Day16 Work]( ) |
+| 17 | 
 
 
 ---
